@@ -1,0 +1,144 @@
+header{
+    background-color: #804000;
+    height: 200px; 
+    padding: 10px;
+    text-align: center;
+    border: 3px solid #000;
+    position: relative;
+}
+#logo {
+  position: absolute; 
+  top: 0; 
+  right: 0; 
+  width: 425px;
+  border: 3px solid #000;
+}
+#tongo {
+  position: absolute; 
+  top: 0; 
+  left: 0; 
+  width: 385px;
+  border: 3px solid #000;
+}
+h1 {
+    font-size: 50px;
+    font-family: "Arial Narrow";
+    color:white;
+}
+
+h2{
+    font-size: 20px;
+    font-family: small;
+    padding:10px;
+    color: white;
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+    background-color: #f5f5dc;
+    border: 5px #D4AF37;
+}
+h3{
+    font-size: 70px;
+    color:  #D4AF37;
+}
+td, th {
+    border: 5px solid #D4AF37;
+    padding: 8px;
+    text-align: left;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    color: black;
+    padding: 20px; 
+    position: relative;
+    
+    
+  }
+  body{
+    background-color: rgb(23, 23, 165)
+  }
+
+#titulos {
+    background-color: #11acc0; 
+
+}
+h10{
+    font-weight: bold;
+}
+input[type="submit"] {
+    background-color: #D4AF37;
+    color: black;
+    padding: 10px 15px;
+    border: none;
+    cursor: pointer;
+    font-weight: bold; 
+    padding: 10px;
+  }
+input[type="text"] {
+    padding-left: 10px;
+  }
+  footer {
+    font-family: "Arial Narrow", Arial, sans-serif;
+    font-size: small; /* Letra txikia */
+    color: #777; /* Letra kolorea */
+    background-color: #f7f7f7; /* Esparruaren kolorea */
+    padding: 10px; /* Esparruaren padding-a */
+    margin-top: 20px; /* Esparruaren goialdea */
+    text-align: center;
+  }
+  #aldatukonfigurazioa {
+    background-color: #11acc0;
+    border-color: #D4AF37;
+    border: 5px solid #D4AF37 ;
+  }
+  p{
+    font-size: 20px;
+    font-weight: bold;
+  }
+  #pop {
+    padding: 10px;
+  }
+  input[type="text"] {
+    width: 50%;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  .error{    
+    font-size: small;
+    color: red;
+    font-weight: bold;
+}
+
+#pSETA,#pREARME,#pPAUSA,#pMARTXA,#pPultsagailu1,#pPultsagailu2,#pPultsagailu3,#pPultsagailu4,#pPultsagailu5,#pPultsagailu6,#pPultsagailu7,#pPultsagailu8      img:hover{
+  cursor: grab;
+} 
+#span {
+  Color: #D4AF37;
+  text-align: center;
+}
+
+#motor5v img{
+  height: 75px;
+}
+
+#sub {
+  font-size: 50px;
+}
+#pongo {
+  right:0px;
+  height: 400px; 
+  border: 5px solid black; 
+  left: 0px;
+  width: 1875px;
+  text-align: center;
+}
+.irudia {
+  height: 100px; /* Altuera 100px */
+  float: right; /* Eskuineko muturrean agertzeko */
+  margin-left: 10px; /* Ezkerreko tartean espazioa */
+}
+
+#form13{
+  padding-left: 10px;
+}
